@@ -1,4 +1,4 @@
--- Select antes de dar o update para verificar se estou alterando o regeistro correto -- 
+-- Select antes de dar o update para verificar se estou alterando o registro correto -- 
 select * 
 from aluno
 where id = 1;
