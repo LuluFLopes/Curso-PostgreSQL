@@ -21,7 +21,7 @@
 	from aluno
 	where nome like '_iogo';
 
-  -- Utilizando o operador "like e _" na pesquisa --ss
+  -- Utilizando o operador "like e _" na pesquisa --
 	select * 
 	from aluno
 	where nome like '_iogo';
